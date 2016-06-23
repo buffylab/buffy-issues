@@ -5,4 +5,4 @@ Please submit issues for `Buffy` here. Type of issues can be one of the followin
 - Bug report
 - Feature request
 - Question
-- etc.
+- Etc.
